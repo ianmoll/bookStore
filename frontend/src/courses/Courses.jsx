@@ -2,12 +2,12 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Course from '../components/Course'
 import Footer from '../components/Footer'
-import lists from '../assets/lists.json'
+// import lists from '../assets/lists.json'
 
 
 
 function Courses() {
-  console.log(lists)
+  // console.log(lists)
   
   return (
    <>
